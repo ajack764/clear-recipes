@@ -9,17 +9,17 @@ https://www.gogogogourmet.com/sprinkle-cookies/
 
 # Ingredients
 
-  * 1 cup butter, room temperature
-  * 1 1/4 cups sugar
-  * 4 oz cream cheese
-  * 1 egg
-  * 1 teaspoon vanilla extract
-  * 1/2 teaspoon almond extract
-  * 1 teaspoon baking powder
-  * 1/4 teaspoons baking soda
-  * 1/2 teaspoon salt
-  * 3 cups flour
-  * 2/3 cup colored sprinkles
+  - **1 cup butter**, *room temperature*
+  - **1 1/4 cups** sugar
+  - **4 oz** cream cheese
+  - **1** egg
+  - **1 teaspoon** vanilla extract
+  - **1/2 teaspoon** almond extract
+  - **1 teaspoon** baking powder
+  - **1/4 teaspoons** baking soda
+  - **1/2 teaspoon** salt
+  - **3 cups** flour
+  - **2/3 cup** colored sprinkles
     
 # Recipe Preparation
   1. Preheat oven to 350F.
