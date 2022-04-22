@@ -3,6 +3,8 @@ https://www.iheartnaptime.net/meatball-recipe/
 > - Jamielyn Nye, December 2019
 https://www.iheartnaptime.net/meatball-recipe/
 
+Prep 15 m | Cook 20 m | Ready In 35 m
+----------|-----------|--------------
 
 # Ingredients
 
@@ -17,9 +19,6 @@ https://www.iheartnaptime.net/meatball-recipe/
 * 2 Tablespoons Chopped fresh Italian Flat leaf parsley (_optional_)
 
 For serving: Marinara and cooked noodles , _optional_
-
-Prep 15 m | Cook 20 m | Ready In 35 m
-----------|-----------|--------------
     
 # Recipe Preparation
 
