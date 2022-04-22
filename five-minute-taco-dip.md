@@ -3,6 +3,8 @@
 > - Holly Nilsson
 https://www.spendwithpennies.com/5-minute-taco-dip/
 
+Prep 5 m | Cook 0 m | Ready In 5 m
+----------|-----------|--------------
 
 # Ingredients
 
@@ -18,9 +20,6 @@ https://www.spendwithpennies.com/5-minute-taco-dip/
  * jalapenos
  * sliced black olives
  * green onions *or red onions*
-
-Prep 5 m | Cook 0 m | Ready In 5 m
-----------|-----------|--------------
 
 # Recipe Preparation
 
