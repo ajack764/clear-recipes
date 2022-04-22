@@ -3,6 +3,8 @@
 > - GarlicQueen
 https://www.allrecipes.com/recipe/240784/easy-coleslaw-dressing/
 
+Prep 10 m | Ready In 10 m
+----------|--------------
 
 # Ingredients
 
@@ -12,9 +14,6 @@ https://www.allrecipes.com/recipe/240784/easy-coleslaw-dressing/
 * 1 tablespoon vinegar
 * 1/2 teaspoon ground black pepper
 * 1/4 teaspoon salt
-
-Prep 10 m | Ready In 10 m
-----------|--------------
 
 # Recipe Preparation
 
