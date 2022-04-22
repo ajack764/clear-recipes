@@ -4,14 +4,14 @@
 https://www.allrecipes.com/recipe/219634/chef-johns-french-fries/
 
 
+Prep 10 m | Cook 10 m | Ready In 50 m
+----------|-----------|--------------
+
 # Ingredients
 
 * 1 russet potatoe cut into evenly sized strips
 * 1 quart vegetable oil for frying
 * salt to taste
-
-Prep 10 m | Cook 10 m | Ready In 50 m
-----------|-----------|--------------
 
 # Recipe Preparation
 
