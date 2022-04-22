@@ -25,7 +25,7 @@ Prep 5 m | Cook 0 m | Ready In 5 m
 
 1. Mix cream cheese with a hand mixer on medium until fluffy.
 2. Add sour cream and taco seasoning. Mix to combine.
-3. Spread into a dish (any size, I used a 10" dish).
+3. Spread into a dish (any size, I used a 10" dish) and chill.
 4. Top with desired toppings and serve.
 
 # Dip Tips
